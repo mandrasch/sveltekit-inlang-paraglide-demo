@@ -9,18 +9,18 @@ Features:
 
 🚧 Quick demo and my first try, needs some improvements (e.g. type safety) 🚧
 
+### Credits and acknowledgements
+
+- language switcher and path handling - big thanks to [LorisSigrist/paraglide-sveltekit-example](https://github.com/LorisSigrist/paraglide-sveltekit-example)! 👏
+- markdown integration - thx to https://www.thisdot.co/blog/how-to-quickly-build-and-deploy-a-static-markdown-blog-with-sveltekit
+- thanks very much to https://inlang.com/ for providing this! 👏
+
 ## Local setup
 
 ```
 npm i
 npm run dev -- -- open
 ```
-
-## Credits and acknowledgements
-
-- language switcher and path handling - big thanks to [LorisSigrist/paraglide-sveltekit-example](https://github.com/LorisSigrist/paraglide-sveltekit-example)! 👏
-- markdown integration - thx to https://www.thisdot.co/blog/how-to-quickly-build-and-deploy-a-static-markdown-blog-with-sveltekit
-- thanks very much to https://inlang.com/ for providing this! 👏
 
 ## How was this created
 
