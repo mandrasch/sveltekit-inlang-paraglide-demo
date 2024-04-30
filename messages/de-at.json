@@ -1,4 +1,9 @@
 {
-    "$schema": "https://inlang.com/schema/inlang-message-format",
-    "WelcomeMessage": "Hallo Servus! Willkommen zu SvelteKit!"
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"WelcomeMessage": "Hallo Servus! Willkommen zu SvelteKit!",
+	"SelectYourLanguage": "Heast, such dir was aus:",
+	"Home": "Hauptseite",
+	"About": "Über",
+	"MarkdownInfo": "Der folgende Inhalt wurde via +page.server.js server-seitig geladen für die ausgewählte Sprache:",
+	"currentlySelectedLanguage": "Aktuell ausgewählte Sprache"
 }
