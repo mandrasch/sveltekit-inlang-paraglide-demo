@@ -1,7 +1,8 @@
 # sveltekit-inlang-paraglide-demo
 
-Simple multilanguage / i18n demo with SvelteKit and @inlang/paraglide-js-adapter-sveltekit
+Simple multilanguage demo with SvelteKit and @inlang/paraglide-js-adapter-sveltekit.
 
+Also with conditional markdown loading based on selected language (server side).
 
 ## How was this created 
 
