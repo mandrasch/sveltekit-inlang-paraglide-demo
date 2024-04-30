@@ -2,16 +2,25 @@
 
 Simple multilanguage demo with SvelteKit and [@inlang/paraglide-js-adapter-sveltekit](https://www.npmjs.com/package/@inlang/paraglide-js-adapter-sveltekit).
 
+Features:
+
 - conditional markdown loading based on selected language (server side)
 - translated URL slugs
 
 🚧 Quick demo and my first try, needs some improvements (e.g. type safety) 🚧
 
+## Local setup
+
+```
+npm i
+npm run dev -- -- open
+```
+
 ## Credits and acknowledgements
 
-- thanks very much to https://inlang.com/ for providing this!
-- language switcher and path handling - big thanks to https://github.com/LorisSigrist/paraglide-sveltekit-example
+- language switcher and path handling - big thanks to [LorisSigrist/paraglide-sveltekit-example](https://github.com/LorisSigrist/paraglide-sveltekit-example)! 👏
 - markdown integration - thx to https://www.thisdot.co/blog/how-to-quickly-build-and-deploy-a-static-markdown-blog-with-sveltekit
+- thanks very much to https://inlang.com/ for providing this! 👏
 
 ## How was this created
 
